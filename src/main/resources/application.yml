@@ -1,0 +1,6 @@
+spring:
+  name: GlobeMartJava
+  data:
+    mongodb:
+      uri: mongodb+srv://maxsoni431:G1wez4CreQxqks2a@cluster0.whiwjgt.mongodb.net
+      database: gmart
